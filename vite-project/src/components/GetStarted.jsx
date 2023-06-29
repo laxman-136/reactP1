@@ -13,7 +13,7 @@ const GetStarted = () => (
           className='w-[23px] h-[23px]
         object-contain'/>
       </div>
-      
+
       <p className="font-poppins font-medium text-[18px] leading-[23px]">
         <span className="text-gradient">Started</span>
       </p>
